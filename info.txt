@@ -1,0 +1,7 @@
+1.Create a text file populated with points-done
+2.Store the points in a List-done
+3.Iterate over the List and create obstacles randomly
+4.Iterate over the List and plot the points in the List, barring the obstacle points
+5.Color code to be followed-yellow for the obstacles
+6.Pick #obstacles 
+7.Handling obstacles-do not cover the obstacles while moving
