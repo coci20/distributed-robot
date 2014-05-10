@@ -1,17 +1,23 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Drawing;
 
-namespace ConsoleApp1
+namespace CloudClient
 {
 	public class MazeInstance
 	{
 		List<Points> list_of_Points=new List<Points>();//create points and put them in a list
-
+		Points last_drawn_point;
 		List<Points> list_of_Obstacles=new List<Points>();
 
-		const int OBSTACLES=100;
+		public Color mazeColor;
 
+		const int OBSTACLES=100;
+		/// <summary>
+		/// Check if the maze has been rendered.
+		/// </summary>
+		public bool render=false;
 
 		string filename = "input1.txt";
 
@@ -23,6 +29,13 @@ namespace ConsoleApp1
 			return list_of_Points;
 		}
 
+		public Points getLastPoint(){
+			return last_drawn_point;
+		}
+
+		public void setLastPoint(Points pt){
+			last_drawn_point = pt;
+		}
 		/// <summary>
 		/// Get_list_of_s the obstacles.
 		/// </summary>
@@ -70,15 +83,15 @@ namespace ConsoleApp1
 		/// <param name="filename">Filename.</param>
 		List<Points> createPoints (string filename)
 		{
-			using (StreamWriter F = new StreamWriter(filename)) { 
-				for (double x=-0.8f; x<=0.8f; x+=0.05) {
-					for (double y=-0.8f; y<=0.8f; y+=0.05) {
-						Points p = new Points ();
-						p.putPoint (x, y);
-						F.WriteLine (p.toString ());
-					}
-				}
-			}
+//			using (StreamWriter F = new StreamWriter(filename)) { 
+//				for (double x=-0.8f; x<=0.8f; x+=0.08) {
+//					for (double y=-0.8f; y<=0.8f; y+=0.08) {
+//						Points p = new Points ();
+//						p.putPoint (x, y);
+//						F.WriteLine (p.toString ());
+//					}
+//				}
+//			}
 			List<Points> myList = listOfPoints(filename);
 			return myList;
 		}

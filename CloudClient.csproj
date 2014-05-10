@@ -44,9 +44,9 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="MazeColor.cs" />
     <Compile Include="MazeBlock.cs" />
-    <Compile Include="Points.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="RenderPartitions.cs" />
+    <Compile Include="Points.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
