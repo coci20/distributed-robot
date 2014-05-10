@@ -1,0 +1,19 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp1/MazeBlock.cs">
+    <Files>
+      <File FileName="ConsoleApp1/Main.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/Points.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/info.txt" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/MazeInstance.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/MazeBlock.cs" Line="67" Column="22" />
+      <File FileName="ConsoleApp1/Maze.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/MazeColor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

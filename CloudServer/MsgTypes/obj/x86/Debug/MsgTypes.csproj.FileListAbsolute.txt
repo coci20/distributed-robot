@@ -1,0 +1,10 @@
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\MsgTypes.dll.config
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\MsgTypes.dll
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\MsgTypes.pdb
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\protobuf-net.dll
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\protogen.exe
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\protobuf-net.pdb
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\protobuf-net.xml
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\bin\Debug\protogen.pdb
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\obj\x86\Debug\MsgTypes.dll
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\MsgTypes\obj\x86\Debug\MsgTypes.pdb

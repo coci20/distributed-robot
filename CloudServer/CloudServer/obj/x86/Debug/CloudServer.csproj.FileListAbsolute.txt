@@ -1,0 +1,10 @@
+c:\users\harsh\documents\visual studio 2010\Projects\CloudServer\CloudServer\bin\Debug\CloudServer.exe
+c:\users\harsh\documents\visual studio 2010\Projects\CloudServer\CloudServer\bin\Debug\CloudServer.pdb
+c:\users\harsh\documents\visual studio 2010\Projects\CloudServer\CloudServer\obj\x86\Debug\CloudServer.exe
+c:\users\harsh\documents\visual studio 2010\Projects\CloudServer\CloudServer\obj\x86\Debug\CloudServer.pdb
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\CloudServer\bin\Debug\MsgTypes.dll
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\CloudServer\bin\Debug\protobuf-net.dll
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\CloudServer\bin\Debug\MsgTypes.pdb
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\CloudServer\bin\Debug\protobuf-net.pdb
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\CloudServer\bin\Debug\protobuf-net.xml
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\CloudServer\obj\x86\Debug\CloudServer.csprojResolveAssemblyReference.cache

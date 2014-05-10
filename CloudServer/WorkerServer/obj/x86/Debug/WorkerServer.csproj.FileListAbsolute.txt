@@ -1,0 +1,7 @@
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\WorkerServer\bin\Debug\WorkerServer.exe
+C:\Users\harsh\Documents\Visual Studio 2010\Projects\CloudServer\WorkerServer\bin\Debug\MsgTypes.dll
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\WorkerServer\bin\Debug\MsgTypes.pdb
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\WorkerServer\obj\x86\Debug\WorkerServer.csprojResolveAssemblyReference.cache
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\WorkerServer\obj\x86\Debug\WorkerServer.exe
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\WorkerServer\obj\x86\Debug\WorkerServer.pdb
+C:\Users\harsh\documents\visual studio 2010\Projects\CloudServer\WorkerServer\bin\Debug\WorkerServer.pdb
