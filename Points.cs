@@ -1,12 +1,14 @@
 using System;
+using System.Drawing;
 
-namespace ConsoleApp1
+namespace CloudClient
 {
 	public class Points
 	{
 		double x;
 		double y;
 		bool isObstacle;
+		public Color pointColor=Color.DarkGreen;
 
 		public Points ()
 		{
